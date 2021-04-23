@@ -2,7 +2,7 @@ name: better_video_player
 description: Advanced video player based on video_player.
 version: 1.0.1
 homepage: https://github.com/WangYng
-repository: https://github.com/WangYng/better_video_player
+repository: https://github.com/cabralfilho/better_video_player
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
